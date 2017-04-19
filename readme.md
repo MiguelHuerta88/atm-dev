@@ -1,3 +1,17 @@
+## Requirements
+* Virtualbox 4.0.x, 4.1.x, 4.2.x, 4.3.x
+* Vagrant >= 1.7.4
+
+## Setup
+Hosts file entry: 192.168.56.110    dev.atm.com
+Run composer install, it should run on startup but sometimes doesn't work due to github rate limiting.
+
+## Database Info
+User: atm
+PW: root
+DB: atmdb
+
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
